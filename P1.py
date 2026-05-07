@@ -1,0 +1,10 @@
+# Albin Sanchez
+firstname=input('enter first name: ')
+lastname=input('enter last name: ')
+address=input('enter address: ')
+city=input('enter city: ')
+state=input('enter state: ')
+postalcode=input('enter postal code: ')
+print(firstname, lastname)
+print(address)
+print(city, state, postalcode)
